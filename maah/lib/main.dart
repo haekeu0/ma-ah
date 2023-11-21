@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
           body: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             // 나는 천재야
+            // 나도
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
