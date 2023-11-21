@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             // 나는 천재야
             // 나도
+            // 나는 앙냥이야
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
